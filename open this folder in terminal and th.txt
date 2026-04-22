@@ -1,0 +1,2 @@
+open this folder in terminal and then paste this command and wait for the output 
+python -m streamlit run app.py
